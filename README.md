@@ -13,4 +13,4 @@ I have refactored it using PHP and the [Medoo](https://medoo.in/) database frame
   $ composer install
   ```
 - Prepare a database. 
-- Change the database and mailtrap credentials in the file app/config/config.php.
+- Change the database and mail(trap) credentials in `app/config/config.php`.
